@@ -1,0 +1,18 @@
+Tipos de Dados
+- Inteiros
+    byte: 1byte –128a 127;
+    short: 2bytes –32.768a 32.767;
+    int: 4bytes –2.147.483.648a 2.147.483.647;
+    long: 8bytes –9.223.372.036.854.775.808a 9.223.372.036.854.775.807;
+
+- Ponto Flutuante
+    float: 4bytes ~ ±3.40282347E+38;
+    double: 8bytes ~ ±1.79769313486231570E+308;
+    
+- Caracter
+    char: 2bytes '\u0000'a '\uffff';
+    
+- Booleano
+    boolean trueou false;
+
+Os tipos byte, char, short, int, long, float e double são inicializadas como 0, e as variáveis do tipo boolean são inicializadas como false

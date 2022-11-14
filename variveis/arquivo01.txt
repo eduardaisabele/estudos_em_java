@@ -1,0 +1,10 @@
+Variaveis
+Variável é uma estrutura que permite armazenar dados na memória durante a execução do programa, para processamento de informações.
+
+Nomeação de variáveis
+A nomeação de variáveis precisa ser feita respeitando algumas regras e convenções:
+1. Pode conter letras, números e o caractere sublinhado (_), mas não pode começar com um número;
+2. Devem ser declaradas em minúsculo. Caso sejam nomes compostos, a primeira letra de todas as palavras, menos da primeira, deve ser maiúscula (Camel Case);
+3. Java é uma linguagem case sensitive. Assim, numeroUm é diferente de numeroum.
+
+

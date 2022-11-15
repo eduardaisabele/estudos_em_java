@@ -1,10 +1,27 @@
 Variaveis
-Variável é uma estrutura que permite armazenar dados na memória durante a execução do programa, para processamento de informações.
+Variável é uma estrutura que permite armazenar dados na memória durante a execução do programa, para processamento de informações. Existem três categorias de variáveis que podem ser declaradas em Java: locais, de instância e de classe.
 
 Nomeação de variáveis
 A nomeação de variáveis precisa ser feita respeitando algumas regras e convenções:
-1. Pode conter letras, números e o caractere sublinhado (_), mas não pode começar com um número;
+1. Pode conter letras, números e o underline (_), ou cifrão ($) mas não pode começar com um número;
 2. Devem ser declaradas em minúsculo. Caso sejam nomes compostos, a primeira letra de todas as palavras, menos da primeira, deve ser maiúscula (Camel Case);
 3. Java é uma linguagem case sensitive. Assim, numeroUm é diferente de numeroum.
+4. Não pode conter espaços e não podemos usar palavras-chave da linguagem
+
+Válidos:
+-- nomeCliente
+-- telefone_1
+-- preco$
+-- produtoAdquirido
+
+Inválidos:
+-- 1Telefone
+-- Nome Cliente
+-- #Preço
+
+Caso a variavel não for incializada sera atribuida um valor padrão a ela como em
+boolean: false
+byte, short, int, long, float, double: 0
+char: \u00000
 
 

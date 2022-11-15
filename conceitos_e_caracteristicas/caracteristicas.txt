@@ -1,0 +1,29 @@
+Algumas características sobre a Linguagem Java são:
+
+-- Orientada a Objetos:
+    Toda classe em Java poderá possuir atributos e métodos. A classe irá servir como um modelo para poder criar diversos objetos, nos quais utilizarão os atributos e métodos fornecidos por aquela determinada classe. Este tipo de programação trata os elementos da linguagem de maneira semelhante aos objetos reais.
+
+-- Independente de plataforma;
+
+-- Simples;
+
+-- Tipada:
+    e quando definimos variáveis com tipos específicos, se definimos uma variavel do tipo float nao podemos atribuir a ela um valor do tipo string daria erro.
+
+-- Compilada:
+    O código de um programa escrito em Java é compilado para uma forma intermediária de código denominada bytecode, que é interpretada pela JVM (.java -->COMPILA--> .class).
+
+-- Interpretada;
+
+-- Imperativa:
+    É a pessoa desenvolvedora que diz como é o quê exatamente um programa deverá realizar. É nesse paradigma que surgiram os laços de repetição (For, While, Do While), estruturas condicionais (If, Switch-Case) e atribuições de valor à variáveis para controle de estados.
+
+-- JDK (Java Development Kit):
+    O kit de desenvolvimento java são as ferramentas de desenvolvimento para usuários que desenvolvem em java.
+
+-- JRE  (Java Runtime Environment):
+    Ambiente de Execução do Java para usuários que usam java, irá te fornecer as bibliotecas padrões do Java para o JDK compilar o código e para a JVM executar o programa.
+
+
+https://www.devmedia.com.br/conceitos-da-linguagem-java/5341
+https://www.zup.com.br/blog/java

@@ -3,6 +3,22 @@ Algumas características sobre a Linguagem Java são:
 -- Orientada a Objetos:
     Toda classe em Java poderá possuir atributos e métodos. A classe irá servir como um modelo para poder criar diversos objetos, nos quais utilizarão os atributos e métodos fornecidos por aquela determinada classe. Este tipo de programação trata os elementos da linguagem de maneira semelhante aos objetos reais.
 
+-- Classes:
+    É um conjunto de objetos com características comuns. Uma classe é como um modelo para a criação de objetos, que tem as mesmas características da classe à qual pertence.
+
+-- Objetos:
+    e uma entidade que possui estado e comportamento tem variáveis e métodos como também classes. As variáveis que um objeto guarda são chamadas de atributos, e as suas sub-rotinas são chamadas de métodos.
+
+-- Instância: 
+    Uma instância é ação de criar um objeto. Quando dizemos que Anderson pertence a classe ser humano, podemos dizer que Anderson é uma instância da classe ser humano.
+
+-- Atributos = Características que definem a classe.
+
+-- Métodos = São as tarefas, ações que a classe pode executar.
+
+-- Poliformismo
+    É a capacidade de um método executar a ação adequada dependendo do tipo de objeto, permite ao desenvolvedor usar o mesmo elemento de formas diferentes. Polimorfismo denota uma situação na qual um objeto pode se comportar de maneiras diferentes ao receber uma mensagem.
+
 -- Independente de plataforma;
 
 -- Simples;

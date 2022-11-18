@@ -1,0 +1,9 @@
+STRINGS
+Strings são seqüências de caracteres, o java não possui um tipo primitivo específico para representar strings, em vez disso elas são encapsuladas pela classe String, até mesmo strings literais (delimitadas por aspas), são instâncias da classe String que podem ser criadas a partir de literais, ou pela concatenação de strings com outras variáveis.
+
+COMPARANDOSTRINGS
+-- Para comparar a igualdade de duas strings deve-se usar o método equals;
+
+-- Caso se queira comparar stringssem levar em conta a diferença entre maiúsculas e minúsculas, pode-se usar o método equalsIgnoreCase;
+
+-- NÃO se deve comparar stringscom ==;

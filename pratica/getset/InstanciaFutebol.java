@@ -13,5 +13,7 @@ public class InstanciaFutebol {
 
         torcida.setNomeTime(time);
         torcida.mostraTime();
+
+        texto.close();
     }
 }

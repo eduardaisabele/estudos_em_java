@@ -1,0 +1,4 @@
+Scanner
+
+nextLine -> para mais de uma string
+next -> somente uma string

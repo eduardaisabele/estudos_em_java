@@ -1,0 +1,28 @@
+- operadores aritmeticos
+    adição +
+    subtração -
+    multiplicação * 
+    divisão / 
+    modulo %
+    incremento ++
+    decremento --
+
+- operadores relacionais
+    igual a ==
+    diferente de !=
+    maior que >
+    menor que <
+    maior ou igual >=
+    menor ou igual <=
+     
+- operadores logicos
+    and &
+    or |
+    xor ^
+    or curto circuito ||
+    and curto circuito &&
+    not ! 
+    
+- operadores de assignment
+- precedencia
+

@@ -1,6 +1,6 @@
 //?Faça um program que peça dois numeros e imprima a soma
 
-package exercicios.curso_loiane;
+package exercicios.curso_loiane.exercicios11_12_13;
 
 import java.util.Scanner;
 

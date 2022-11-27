@@ -1,6 +1,6 @@
 //?Faça um programa que converta metros para centrimetros
 
-package exercicios.curso_loiane;
+package exercicios.curso_loiane.exercicios11_12_13;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //?Faça um program que peça 4 notas e mostre a media
 
-package exercicios.curso_loiane;
+package exercicios.curso_loiane.exercicios11_12_13;
 
 import java.util.Scanner;
 

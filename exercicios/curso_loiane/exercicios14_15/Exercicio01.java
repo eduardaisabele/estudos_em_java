@@ -2,7 +2,7 @@ package exercicios.curso_loiane.exercicios14_15;
 
 import java.util.Scanner;
 
-public class Exercicios01 {
+public class Exercicio01 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -21,4 +21,4 @@ public class Exercicios01 {
     }
 }
 
-
+//?Faça um programa que peça dois numeros e imprima o maior deles.

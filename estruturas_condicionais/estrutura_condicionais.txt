@@ -1,1 +1,10 @@
 As estruturas condicionais possibilitam ao programa tomar decisões e alterar o seu fluxo de execução. Isso possibilita ao desenvolvedor o poder de controlar quais são as tarefas e trechos de código executados de acordo com diferentes situações, como os valores de variáveis. As estruturas condicionais geralmente analisam expressões booleanas e, caso estas expressões sejam verdadeiras, um trecho do código é executado. No caso contrário, outro trecho do código é executado.decisão (if e else) e repetição (while e for).
+
+Controle while avalia uma expressa e caso verdadeira executa o bloco dentro do comando while.
+
+do-while executa o bloco dentro do comanado do e depois avalia aexpressao. O bloco deixa de ser executado apos a exepressao ficar falsa
+
+for executa um bloco de codigo que esra dentro do  comando for enquanto uma expressão for verdadeira.
+for (inicialização; condição; atualização) {
+    //bloco de código;
+}

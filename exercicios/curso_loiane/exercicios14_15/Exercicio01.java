@@ -11,7 +11,7 @@ public class Exercicio01 {
         int numero = scanner.nextInt();
         int maior = numero;
         for (i = 2; i <= 2; i++) {
-            System.out.print("n" + i + ": ");
+            System.out.print("n" + i + ": "); 
             numero = scanner.nextInt();
             if (numero > maior) {
                 maior = numero;

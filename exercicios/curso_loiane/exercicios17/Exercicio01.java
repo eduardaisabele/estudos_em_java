@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class Exercicio01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         boolean notaValida = false;
+        
         do {
             System.out.println("Digite um numero entre 0 e 10: ");
             int numero = scanner.nextInt();

@@ -1,10 +1,16 @@
 package exercicios.outros;
 
+import java.util.Scanner;
+
 public class Exercicio01 {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Digite sua idade: ");
+        int idade = scanner.nextInt();
+
         
+
+        scanner.close();
     }
 }
-
-//?Fazer um programa que imprima a média aritmetica dos numeros 8,9 e 7. A média dos numeros 4, 5 e 6. A soma das duas medias. A media das medias.
-//?resolução: dividir a somar dos numeros.

@@ -6,6 +6,8 @@ public class Exercicio01 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        // scanner.close();
+
         int i = 1;
         System.out.print("n" + i + ": ");
         int numero = scanner.nextInt();

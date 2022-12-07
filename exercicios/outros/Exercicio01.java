@@ -8,6 +8,7 @@ public class Exercicio01 {
 
         System.out.println("Digite sua idade: ");
         int idade = scanner.nextInt();
+        System.out.println(idade);
 
         
 

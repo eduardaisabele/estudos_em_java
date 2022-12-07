@@ -14,6 +14,7 @@ public class Exercicio07 {
 
         System.out.println("Quanto em R$ foi efetuadas no mês: ");
         int vendasMes = scanner.nextInt();
+        System.out.println(vendasMes);
 
         double percentual = 15.0 / 100.0;
         double valorComissao = salarioVendedor + (percentual * salarioVendedor);

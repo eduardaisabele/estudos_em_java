@@ -1,4 +1,4 @@
-package exercicios.outros;
+package exercicios.curso_loiane.exercicios11_12_13;
 
 import java.util.Scanner;
 
@@ -24,8 +24,3 @@ public class Exercicio13 {
         scanner.close();
     }
 }
-
-//?Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-//Para homens: (72.7*h) - 58
-//Para mulheres: (62.1*h) - 44.7
-

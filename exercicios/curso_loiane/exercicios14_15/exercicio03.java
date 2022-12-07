@@ -1,7 +1,6 @@
 package exercicios.curso_loiane.exercicios14_15;
 
 import java.util.Scanner;
-import java.util.stream.Stream;
 
 public class exercicio03 {
     public static void main(String[] args) {
@@ -17,5 +16,6 @@ public class exercicio03 {
         }else {
             System.out.println("sexo invalido");
         }
+        scanner.close();
     }
 }

@@ -1,0 +1,14 @@
+Estrutura de dados mais simples existente na maioreia das linguagens de programação, array e uma estrutura de dados que armazena uma coleção de sequencial de tamamnho fixo de elementos do mesmo tipo.
+Lista ordenada de dados;
+
+estrutura do array
+
+tipoDeDado[] nomeDaVariavel = new tipoDeDado[tamanhoArray];
+double[] exemploArray = new double[4];
+
+atribuir dados a um array:
+exemploArray[0] = 12.5;
+exemploArray[1] = 8.8;
+exemploArray[2] = 9.55;
+
+double[] exemploArray = {1, 56, 89, 54}

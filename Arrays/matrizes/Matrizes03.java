@@ -1,4 +1,4 @@
-package matrizes;
+package Arrays.matrizes;
 
 public class Matrizes03 {
     public static void main(String[] args) {
@@ -31,5 +31,6 @@ public class Matrizes03 {
         System.out.println("Soma total = " + soma);
         System.out.println("Soma total = " + somaPares);
         System.out.println("Soma total = " + somaImpares);
+        
     }
 }

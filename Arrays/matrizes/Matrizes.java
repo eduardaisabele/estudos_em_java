@@ -1,4 +1,4 @@
-package matrizes;
+package Arrays.matrizes;
 
 public class Matrizes {
     public static void main(String[] args) {

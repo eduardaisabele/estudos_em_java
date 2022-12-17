@@ -10,6 +10,15 @@ public class CarroVan {
         van.cansumoCombustivel = 0.2;
 
         System.out.println(van);
+
+        van.exibirAutonomia();
+
+        double autonomia = van.obterAutonomia();
+        System.out.println("A autonomia do carro é: " + autonomia);
+        System.out.println("A autonomia do carro é: " + van.obterAutonomia()  );
+
+        double quantidadeCombustivel10 = van.calcularCombustivel(10);
+        System.out.println("Qunatidade combustivel = " + quantidadeCombustivel10);
         
     }
 }

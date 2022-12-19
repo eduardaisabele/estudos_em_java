@@ -30,6 +30,15 @@ public class Aluno01 {
         }
 
         aluno01.mostraeInfo();
+
+        for (int i = 0; i < aluno01.nomeDisciplinas.length
+        ; i++) {
+            if (aluno01.verificarAprovado(i)) {
+                System.out.println("Disciplina " + aluno01.nomeDisciplinas[i] + " - foi aprovado");
+            } else {
+                System.out.println("Disciplina " + aluno01.nomeDisciplinas[i] + " - reprovado");
+            }
+        }
         scanner.close();
     }
 }
